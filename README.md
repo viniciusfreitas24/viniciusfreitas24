@@ -9,7 +9,7 @@ Estudante da Associação Comunitária Despestar , já realizei o curso de Progr
 *   🌍  I'm based in São Paulo , Brasil
 *   ✉️  You can contact me at [medeirosnino08@gmail.com](mailto:medeirosnino08@gmail.com)
 *   🧠  I'm learning html,JavaScript,Banco de dados
-*   🤝  I'm open to collaborating on Instituto Monitoramento Mirim Costeiro### Skills 
+
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
