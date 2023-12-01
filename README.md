@@ -24,7 +24,7 @@ Tenho 17 anos, estou estudando na área de progrmação há mais ou menos 10 mes
 ##
 
 <div>
-  <a href = "https://www.instagram.com/vinimf24" target = "_blank"><img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href = "https://www.instagram.com/vinimf_24/" target = "_blank"><img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href = "https://github.com/viniciusfreitas24" target = "_blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
    <a href = "mailto:contato@medeirosnino08@gamil.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
