@@ -18,7 +18,6 @@ Tenho 17 anos, estou estudando na área de progrmação há mais ou menos 10 mes
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" aling = "center" alt = "css" height = "40" width = "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" aling = "center" alt = "dart" height = "40" width = "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" aling = "center" alt = "java" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" aling = "center" alt = "mysql" height = "40" width = "40" />
 </div>
 
 ##
