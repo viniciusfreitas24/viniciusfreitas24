@@ -1,29 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinicius Medeiros de Freitas
-====================================================================================================================================================
+## Olá me chamo Vinicius Medeiros de Freitas!!! 👋
 
-Estudante de Desenvolvimento de Sistemas.
------------------------------------------
+Tenho 17 anos, estou estudando na área de progrmação há mais ou menos 10 meses, a primeira linguagem assim que conheci assim que comecei nessa área foi a linguagem Dart. Moro na Capital de São Paulo e estou no 2° Ano do ensino médio.
 
-Estudante da Associação Comunitária Despestar , já realizei o curso de Programação de Dispositivos Móveis , agora estou realizando o curso de Desenvolvimento de Sistemas.
+- ✍🏽 Atualmente estou aprendendo a linguagem de programação JAVA   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" aling = "center" alt = "java" height = "30" width = "40" />
 
-*   🌍  I'm based in São Paulo , Brasil
-*   ✉️  You can contact me at [medeirosnino08@gmail.com](mailto:medeirosnino08@gmail.com)
-*   🧠  I'm learning JavaScript, HTML, CSS, Java, Dart
+ 
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.facebook.com/Vinícius Medeiros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/viniciusfreitas24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/vinimf_24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+##
+
+<div>
+<img align = "center" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfreitas24&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+<div style = "display:incline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" aling = "center" alt = "Javascript" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" aling = "center" alt = "html" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" aling = "center" alt = "css" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" aling = "center" alt = "dart" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" aling = "center" alt = "java" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" aling = "center" alt = "mysql" height = "40" width = "40" />
+</div>
+
+##
+
+<div>
+  <a href = "https://www.instagram.com/vinimf24" target = "_blank"><img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href = "https://github.com/viniciusfreitas24" target = "_blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+   <a href = "mailto:contato@medeirosnino08@gamil.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
