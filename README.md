@@ -18,7 +18,7 @@ Tenho 17 anos, estou estudando progrmação há mais ou menos 1 ano, a primeira 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" aling = "center" alt = "css" height = "40" width = "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" aling = "center" alt = "dart" height = "40" width = "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" aling = "center" alt = "java" height = "40" width = "40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php1/php1-original.svg" aling = "center" alt = "php" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" aling = "center" alt = "php" height = "40" width = "40" />
 </div>
 
 ##
