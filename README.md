@@ -8,7 +8,9 @@ Tenho 17 anos, estou estudando progrmação há mais ou menos 1 ano, a primeira 
 
 ##
 
-<img alt = "top langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfreitas24&layout=compact"/>
+<div>
+<img align = "center" width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfreitas24&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 <div style = "display:incline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" aling = "center" alt = "Javascript" height = "40" width = "40" />
