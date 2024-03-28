@@ -9,7 +9,7 @@ Tenho 17 anos, estou estudando progrmação há mais ou menos 1 ano, a primeira 
 ##
 
 <div>
-<img align = "center" width = "60%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfreitas24&layout=compact&langs_count=16&theme=dark"/>
+<img align = "center" width = "30%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfreitas24&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style = "display:incline_block"><br>
