@@ -22,7 +22,7 @@ Tenho 17 anos, estou estudando programação há mais ou menos 1 ano, a primeira
 ##
 
 <div>
-  <a href = "https://www.instagram.com/vinimf_24/" target = "_blank"><img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href = "https://github.com/viniciusfreitas24" target = "_blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-   <a href = "mailto:contato@medeirosnino08@gamil.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href = "https://www.instagram.com/vinimf_24/" target = "_blank"><img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=dark">
+  <a href = "https://github.com/viniciusfreitas24" target = "_blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=dark">
+   <a href = "emailto:contato@medeirosnino08@gamil.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=dark">
 </div>
