@@ -1,8 +1,8 @@
 ## Olá me chamo Vinicius Medeiros de Freitas!!! 👋
 
-Tenho 17 anos, estou estudando programação há mais ou menos 1 ano, a primeira linguagem que conheci, assim entrei nessa área foi a linguagem Dart. Moro na Capital de São Paulo e estou no 3° Ano do ensino médio.
+Tenho 18 anos, estou estudando programação há mais ou menos 1 ano, a primeira linguagem que conheci, assim entrei nessa área foi a linguagem Dart. Moro na Capital de São Paulo.
 
-- ✍🏽 Atualmente estou aprendendo a linguagem de programação DART   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" aling = "center" alt = "dart" height = "25" width = "40" /> E a linguagem de programação PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" aling = "center" alt = "dart" height = "25" width = "40" />
+- ✍🏽 Ultimas linguagens aprendidas foi a linguagem de programação DART   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" aling = "center" alt = "dart" height = "25" width = "40" /> E a linguagem de programação PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" aling = "center" alt = "dart" height = "25" width = "40" />
 
  
 
